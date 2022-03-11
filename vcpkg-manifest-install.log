@@ -1,0 +1,70 @@
+Detecting compiler hash for triplet x64-windows-static...
+Detecting compiler hash for triplet x64-windows...
+The following packages will be built and installed:
+  * boost-align[core]:x64-windows-static -> 1.76.0
+  * boost-assert[core]:x64-windows-static -> 1.76.0
+    boost-atomic[core]:x64-windows-static -> 1.76.0
+  * boost-build[core]:x64-windows -> 1.75.0
+  * boost-config[core]:x64-windows-static -> 1.76.0
+  * boost-core[core]:x64-windows-static -> 1.76.0
+  * boost-detail[core]:x64-windows-static -> 1.76.0
+  * boost-modular-build-helper[core]:x64-windows -> 1.76.0#1
+  * boost-predef[core]:x64-windows-static -> 1.76.0
+  * boost-preprocessor[core]:x64-windows-static -> 1.76.0
+  * boost-static-assert[core]:x64-windows-static -> 1.76.0
+    boost-stl-interfaces[core]:x64-windows-static -> 1.76.0
+  * boost-type-traits[core]:x64-windows-static -> 1.76.0
+  * boost-uninstall[core]:x64-windows-static -> 1.75.0#1
+  * boost-uninstall[core]:x64-windows -> 1.75.0#1
+  * boost-vcpkg-helpers[core]:x64-windows-static -> 7#2
+  * boost-winapi[core]:x64-windows-static -> 1.76.0
+  * fmt[core]:x64-windows-static -> 7.1.3#5
+    span-lite[core]:x64-windows-static -> 0.9.0
+    spdlog[core]:x64-windows-static -> 1.9.0#1
+  * vcpkg-cmake[core]:x64-windows -> 2021-07-30
+  * vcpkg-cmake-config[core]:x64-windows -> 2021-05-22#1
+Additional packages (*) will be modified to complete this operation.
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\0f\0fae0346c77f66d8a364f2c61bd098d24fc2b0c631b00ede3bb13f716f36018b.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\8e\8ef29fa31b2dabe6a822b1de2bdaaf1f6528c8da53e1aa400e64ebcd3228a244.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\26\26efe0cdb0a6284558a12dabeac2589c93bfaeca7250530ab8d34b32cde24cfe.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\19\199da13f21a0ed555fbd76a5bf0a3d21aa506c6efa5867203f32745148d55e5e.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\d7\d75f56abaa0ea5cd3ddb32d9ba16833f04633a32f4a0ecb08f7fa23fce7eae92.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\45\457099d0bad7117a87afd0b60909c7281d9a06ecc7b6c0c833f51afd4d9f1158.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\d4\d4775c8fe050a2441ccab63edf3a1cae8ba5a0753fbccd784fb24b13eb127bee.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\54\54602f7e62c8a8a8cd875be849249b812b13aa485980cb499e66f0eb0910e868.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\64\64bc5c138e21e8123bc4fff51d4d2051ca488dde0f0c54be458331f260ab3197.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\03\035fd1ec367fc09c53cf1bca6334793dc1927bb3e7f7d2108876091d0a2e66ae.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\8d\8d2bf47dd7d886ac3c293366705cc16aab1066ffe84b742c2d0554a8e998b523.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\2b\2b6f4fe8815490283abb433099b7f0236fa134331ae5a2915160df1b6d3ba84c.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\02\02897bc66038f7ec403059448f410a5332aaf4a32ed6c45172c9434dd890ba75.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\03\031d32ab5d005c8b98d82a676055cb5a14def22a35e62a97562cd552510cbaef.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\6a\6a3c9e2d2a4d82a46b27f2a64a1a4210a9b9c99f72cd0c8020a0cb384334d882.zip
+Could not locate cached archive: C:\Users\Noah\AppData\Local\vcpkg\archives\a7\a702fad5ccbc208f3832cdac9db7b85d02e3cd97b9e657b508b8c89fc83b0daf.zip
+Could not locate cached archive: C:\Users\Noah\AppData\Local\vcpkg\archives\4d\4d15c7c372e79fd6f79bb2b4a7e37f8647a6edac5c56a4d3d57092be03961f69.zip
+Could not locate cached archive: C:\Users\Noah\AppData\Local\vcpkg\archives\22\22ce593a0f1cca031b4b481dbef018a206e00ecf7657c011a35d5ac217b0b80f.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\cf\cfadccb4429fa6c534a97843c88c4dbddf449926aef4c1ae0eb67a00ad6e91c8.zip
+Using cached binary package: C:\Users\Noah\AppData\Local\vcpkg\archives\be\bee18a167e53109ebf1396393b01bc6f9128d8f75e4e497b90ff342c3498d46c.zip
+Could not locate cached archive: C:\Users\Noah\AppData\Local\vcpkg\archives\1e\1e0ac7899f6e625d4417ccf44b47706a74bedd2c9b586c4bb642cd4606a5be0d.zip
+Could not locate cached archive: C:\Users\Noah\AppData\Local\vcpkg\archives\ea\eadde5929c952bf38a5228b14060d281f3474eba673b56710a9dfdf7bd8055da.zip
+Starting package 1/22: boost-uninstall:x64-windows-static
+Building package boost-uninstall[core]:x64-windows-static...
+Building package boost-uninstall[core]:x64-windows-static... done
+Installing package boost-uninstall[core]:x64-windows-static...
+Installing package boost-uninstall[core]:x64-windows-static... done
+Elapsed time for package boost-uninstall:x64-windows-static: 21.61 ms
+Starting package 2/22: boost-vcpkg-helpers:x64-windows-static
+Building package boost-vcpkg-helpers[core]:x64-windows-static...
+Building package boost-vcpkg-helpers[core]:x64-windows-static... done
+Installing package boost-vcpkg-helpers[core]:x64-windows-static...
+Installing package boost-vcpkg-helpers[core]:x64-windows-static... done
+Elapsed time for package boost-vcpkg-helpers:x64-windows-static: 60.47 ms
+Starting package 3/22: boost-predef:x64-windows-static
+Building package boost-predef[core]:x64-windows-static...
+Building package boost-predef[core]:x64-windows-static... done
+Installing package boost-predef[core]:x64-windows-static...
+Installing package boost-predef[core]:x64-windows-static... done
+Elapsed time for package boost-predef:x64-windows-static: 989 ms
+Starting package 4/22: boost-config:x64-windows-static
+Building package boost-config[core]:x64-windows-static...
+Building package boost-config[core]:x64-windows-static... done
+Installing package boost-config[core]:x64-windows-static...
